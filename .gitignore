@@ -1,0 +1,6 @@
+jars/*
+data/*
+out/*
+.idea/*
+*.iml
+
